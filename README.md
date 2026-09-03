@@ -4,7 +4,7 @@ A "learn by demonstration" example for LEGO lovers that want to try a machine-le
 
 ## Video Tutorial
 
-Watch the step-by-step tutorial on YouTube: [INSERT YOUTUBE LINK HERE]
+Watch the step-by-step tutorial on YouTube: https://youtu.be/zeEeBysmOjE
 
 ## Overview
 
